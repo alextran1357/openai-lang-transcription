@@ -13,4 +13,18 @@ transcript = client.audio.transcriptions.create(
   model="whisper-1",
   file=audio_file
 )
-print(transcript.text)
+print("Text ", transcript.text)
+print("Transcription ", transcript)
+
+completion = client.chat.completions.create(
+    model="gpt-4o",
+    messages=[
+        {"role": "developer", "content": "Summarize the provided text"},
+        {
+            "role": "user",
+            "content": transcript.text
+        }
+    ]
+)
+
+print(completion.choices[0].message)
