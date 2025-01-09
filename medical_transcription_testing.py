@@ -7,15 +7,6 @@ api_key = os.getenv("OPENAI_API_KEY")
 
 client = OpenAI()
 
-# audio_file = open("sound_recordings/Recording_low_quality.mp3", "rb")
-# transcript = client.audio.transcriptions.create(
-#   prompt="You are a doctor speaking",
-#   model="whisper-1",
-#   file=audio_file
-# )
-# print("-------------------------------------------")
-# print("Text ", transcript.text)
-# print("Transcription ", transcript)
 generated_transcription_test="Good morning, I'm Dr. Carter. I see this is your first visit with us, \
   so we'll start by gathering some general information before we talk about your specific concerns. \
   Can you confirm your full name and date of birth for me? Sure, I'm Alex Morgan, born July 15, 1990. \
