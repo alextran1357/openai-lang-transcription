@@ -20,3 +20,27 @@ you've described, there are a few possibilities we'll need to rule out. Achilles
 of them. This condition can result from repetitive strain, especially if you've been increasing \
 physical activity. To confirm, I'll need to do a physical exam and might recommend imaging tests \
 if needed. Sound good? Yes, that makes sense. Thanks for explaining. Of course. We'll figure this out together."
+
+EASIER TO READ -------------------------------------------------------------------------------------------------------
+
+Doctor: Good morning. I'm Dr. Carter. I see this is your first visit with us, so we’ll start by gathering some general information before we talk about your specific concerns. Can you confirm your full name and date of birth for me?
+Patient: Sure, I’m Alex Morgan, born July 15, 1990.
+Doctor: Great. Thanks, Alex. Before we dive into your symptoms, do you have any medical conditions, allergies, or are you taking any regular medications?
+Patient: No allergies, and I don’t have any medical conditions that I know of. I take a multivitamin, but that’s about it.
+Doctor: Understood. Now, let’s talk about what brought you in today. Can you describe what’s been bothering you?
+Patient: Well, I’ve been having this pain in my ankle, mostly at the back, near the heel. It started about a week ago.
+Doctor: Hmm, I see. Is the pain constant, or does it come and go?
+Patient: It’s not constant. It’s more noticeable when I walk, especially if I’ve been sitting for a while and then get up.
+Doctor: Does the pain worsen with any specific activity, like running or climbing stairs?
+Patient: Yes, running makes it worse. I actually had to stop my jogging routine because of it.
+Doctor: I’m sorry to hear that. Have you noticed any swelling, stiffness, or redness in the area?
+Patient: Not really. It’s more like a sharp pain when I move a certain way, but the area looks normal to me.
+Doctor: How about your shoes? Have you changed footwear recently or started using any new insoles?
+Patient: Not that I can think of. I’ve been using the same running shoes for a few months.
+Doctor: Hmm. And before this started, did you have any injury to your foot or leg, even a minor one?
+Patient: No, nothing like that. It just came out of nowhere, really.
+Doctor: Got it. One last thing—have you experienced similar pain before, or is this completely new?
+Patient: This is completely new. I’m starting to get a little worried about it.
+Doctor: I understand. Based on what you’ve described, there are a few possibilities we’ll need to rule out. Achilles tendonitis is one of them. This condition can result from repetitive strain, especially if you’ve been increasing physical activity. To confirm, I’ll need to do a physical exam and might recommend imaging tests if needed. Sound good?
+Patient: Yes, that makes sense. Thanks for explaining.
+Doctor: Of course. We’ll figure this out together.

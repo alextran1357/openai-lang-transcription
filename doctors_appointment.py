@@ -39,8 +39,11 @@ generated_transcription_test="Good morning, I'm Dr. Carter. I see this is your f
   physical activity. To confirm, I'll need to do a physical exam and might recommend imaging tests \
   if needed. Sound good? Yes, that makes sense. Thanks for explaining. Of course. We'll figure this out together."
 
-prompt="This is a transcription of a conversation between two people. A doctor and his patient.\
-  This transcription would have more than 1 person speaking. I want bullet points on important details."
+prompt="This is a transcription of a conversation between a doctor and a patient during a medical consultation. Extract \
+  and summarize the key details into concise, structured bullet points typically found in medical notes. Avoid narrative style. \
+  Use this general format: Patient name: [Name] Date of birth: [DOB] Reason for visit: [Reason] Medical history: [Details] Current medications: [Details]\
+  Symptoms described: [Details] Observations by the doctor: [Details] Next steps: [Plan or recommendations]\
+Make sure the bullet points are as brief and specific as possible while accurately reflecting the key details from the conversation."
 
 completion = client.chat.completions.create(
     model="gpt-4o",
