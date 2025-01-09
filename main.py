@@ -20,7 +20,7 @@ print("Text ", transcript.text)
 completion = client.chat.completions.create(
     model="gpt-4o",
     messages=[
-        {"role": "developer", "content": "Summarize the provided text. Make it more concise and shorter. Provide text as if taking down quick notes"},
+        {"role": "developer", "content": "summarize this into bullet points"},
         {
             "role": "user",
             "content": transcript.text
